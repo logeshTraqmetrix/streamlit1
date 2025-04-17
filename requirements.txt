@@ -1,0 +1,7 @@
+langchain_community
+python-dotenv
+langchain
+unstructured
+faiss-cpu
+langchain-groq
+streamlit
